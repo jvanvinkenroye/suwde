@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studium und Weiter</title>
+    <link>http://studium-und-weiter.de/</link>
+    <description>Recent content on Studium und Weiter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 12 Nov 2018 17:38:35 +0100</lastBuildDate>
+    
+	<atom:link href="http://studium-und-weiter.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://studium-und-weiter.de/kontakt/</link>
+      <pubDate>Mon, 12 Nov 2018 17:38:35 +0100</pubDate>
+      
+      <guid>http://studium-und-weiter.de/kontakt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ueber</title>
+      <link>http://studium-und-weiter.de/ueber/</link>
+      <pubDate>Mon, 12 Nov 2018 17:38:28 +0100</pubDate>
+      
+      <guid>http://studium-und-weiter.de/ueber/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

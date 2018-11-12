@@ -1,0 +1,15 @@
+baseURL = "http://studium-und-weiter.de/"
+languageCode = "de-DE"
+title = "Studium und Weiter"
+theme = "hello-friend"
+[menu]
+  [[menu.main]]
+    identifier = "ueber uns"
+    name = "Ueber"
+    url = "/ueber"
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/kontakt"
+
+
